@@ -5,7 +5,7 @@
     font-weight: 500;
     padding:1rem 2rem;
     background-color: linear-gradient(90deg, #FF6262 0%, #FFB86C 100%);
-    box-shadow: 4px 12px rgba(0, 0, 0, 0.25);
+    box-shadow: 4px 12px rgba(228, 4, 4, 0.781);
 }
 .pokedex-header{
     color:blue;
