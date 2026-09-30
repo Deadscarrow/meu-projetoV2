@@ -1,5 +1,4 @@
-
-import './header.css';
+import "/header.css";
 export function Header() {
 	return (
 		<header className="pokedex-header">
